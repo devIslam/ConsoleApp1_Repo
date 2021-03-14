@@ -39,16 +39,12 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            //remote change
-            //on new branch new change testtttt
-            //a
-            //b
-            //c
+            //3rd Comment from repote 
+            //on new branch new change
             const int xy = 99;
             Console.WriteLine(xy.ToString());
             testClass tc = new testClass(2, "vv", 4);
           
-
             Console.WriteLine(tc.b.ToString() + tc.c.ToString());
             StringBuilder strbldr = new StringBuilder("ali");
             Console.WriteLine(strbldr.ToString());
