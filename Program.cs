@@ -45,6 +45,7 @@ namespace ConsoleApp1
             Console.WriteLine(xy.ToString());
             testClass tc = new testClass(2, "vv", 4);
           
+
             Console.WriteLine(tc.b.ToString() + tc.c.ToString());
             StringBuilder strbldr = new StringBuilder("ali");
             Console.WriteLine(strbldr.ToString());
