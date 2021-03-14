@@ -40,7 +40,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //3rd Comment from repote 
-            //on new branch new change
+            //on new branch new change master
             const int xy = 99;
             Console.WriteLine(xy.ToString());
             testClass tc = new testClass(2, "vv", 4);
